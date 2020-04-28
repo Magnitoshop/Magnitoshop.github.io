@@ -1,0 +1,54 @@
+/*//////////1199-991 (КОМП)//////////*/
+@media only screen and (max-device-width : 1199px) {
+
+
+
+
+
+}
+/*//////////991-767 (ПЛАНШЕТ)//////////*/
+@media only screen and (max-device-width : 991px) {
+
+
+
+
+
+}
+/*//////////767 (ПЛАНШЕТ-БРЕЙКПОИНТ)//////////*/
+@media only screen and (max-device-width : 767px) {
+
+.links {
+	font-size: 30px
+}
+
+
+
+}
+/*//////////575 (СМАРТФОН)//////////*/
+@media only screen and (max-device-width : 575px) {
+	.block h3 {
+		font-size: 18px
+	}
+	.number {
+		padding: .5em;
+	}
+	.block {
+		padding: .5em;
+	}
+	.image {
+		padding: .5em;
+	}
+
+
+
+
+
+}
+
+/*//////////5380 (СМАРТФОН)//////////*/
+@media only screen and (max-device-width : 380px) {
+
+.links {
+	font-size: 20px
+}	
+}
